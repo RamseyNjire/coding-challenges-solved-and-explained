@@ -3,17 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
 
-> In this project, we attempted to implement some of the more popular methods in the Ruby enumerables method. These are:
-- #my_each
-- #my_each_with_index
-- #my_select
-- #my_all?
-- #my_any?
-- #my_none?
-- #my_count
-- #my_map
-- #my_inject
-- #multiply_els for use with #my_inject
+> Let's collect as many different solutions for coding challenges as we can! Better yet, let's try to explain them easily!
 
 ## Built With
 
