@@ -1,4 +1,4 @@
-# Ruby Enumerable Module Partial Implementation
+# Solutions to Coding Challenges with Explanations
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
