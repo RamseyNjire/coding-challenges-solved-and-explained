@@ -3,6 +3,14 @@
 
 > Let's collect as many different solutions for coding challenges as we can! Better yet, let's try to explain them easily!
 
+## How to Use This Repo
+
+- The challenges can be found in the Challenges folder, with more information in (CHALLENGES.md)[./Challenges/CHALLENGES.md].
+
+- The solutions can be found in the Solutions folder, with more information in (SOLUTIONS.md)[./Solutions/SOLUTIONS.md].
+
+- The explainers can be found in the Explainers folder, with more information in the EPLAINER-*.md files.
+
 
 
 ## 🤝 Contributing
@@ -17,6 +25,8 @@
   - Is well commented to explain what is going on
 
 - Optionally, consider writing a short article or making an explainer video where you explain how the algorithm works and the thinking process that led you to that particular solution. I am currently trying to do write-ups for all of my solutions to make these algorithms more accessible and would love assistance on the same. You can add your explanation to the any of the EXPLAINER-*.md documents.
+
+- To suggest a new challenge to add to the list, add it to the (CHALLENGES.md)[./Challenges/CHALLENGES.md] file with a link to the webpage with the challenge. Ideally, the page should have test cases to verify. In case your challenge does not have test cases, please provide test cases along with your challenge. 
 
 ## Show your support
 
