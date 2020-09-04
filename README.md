@@ -5,9 +5,9 @@
 
 ## How to Use This Repo
 
-- The challenges can be found in the [Challenges](./Challenges) folder, with more information in [CHALLENGES.md](./Challenges/CHALLENGES.md).
+- The challenges can be found in the [Challenges](./Challenges) folder. Links are in the 'Challenges' column of the table below.
 
-- The solutions can be found in the [Solutions](./Solutions) folder, with more information in [SOLUTIONS.md](./Solutions/SOLUTIONS.md).
+- The solutions can be found in the [Solutions](./Solutions) folder. Links are in the 'Solutions' column of the table below.
 
 - The explainers can be found in the Explainers folder, with more information in the EXPLAINER-*.md files.
 
