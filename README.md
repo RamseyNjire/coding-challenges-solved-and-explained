@@ -14,9 +14,11 @@
 
 ## Challenges
 
-| **Challenge** | **Solution** |
-| --- | --- |
-| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/FizzBuzz) |
+| **Challenge** | **Solution** | **Explanation** |
+| --- | --- | --- |
+| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | 
+[Solutions](./Solutions/FizzBuzz) | 
+
 
 
 
