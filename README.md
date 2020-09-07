@@ -12,6 +12,13 @@
 - The explainers can be found in the Explainers folder, with more information in the EXPLAINER-*.md files.
 
 
+## Challenges
+
+| **Challenge** | **Solution** |
+| --- | --- |
+| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/Fizzbuzz) |
+
+
 
 ## 🤝 Contributing
 
