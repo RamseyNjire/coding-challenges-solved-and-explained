@@ -6,7 +6,7 @@ The trick with solving this problem lies in knowing what to check for first. Sho
 
 Let's go through it step by step:
 
-- You need some way to count the numbers from 1 to 100. My solution is implemented in Ruby, so I used the #times method. Specifically, this method is a method of the `Integer` class, and is implemented by calling the #times method on a given number. You can see [here](./Solutions/FizzBuzz/ruby_solution.rb) that I call `100.times` then pass it a code block, where I specify some actions. Don't worry about the terminology. It's not important here. The point is that I've found a way to count from 1 to 100. There are numerous ways to implement this, including `for` loops, `while` loops, and even `range`, all of which exist in Ruby and other languages.
+- You need some way to count the numbers from 1 to 100. My solution is implemented in Ruby, so I used the #times method. Specifically, this method is a method of the `Integer` class, and is implemented by calling the #times method on a given number. You can see [here](./Solutions/FizzBuzz/RamseyNjire/RamseyNjire.rb) that I call `100.times` then pass it a code block, where I specify some actions. Don't worry about the terminology. It's not important here. The point is that I've found a way to count from 1 to 100. There are numerous ways to implement this, including `for` loops, `while` loops, and even `range`, all of which exist in Ruby and other languages.
 
 - Once you've set up some kind of counter, you need to define some code that checks the number at every count. If the right condition is met, it will print either of 'Fizz', 'Buzz', and FizzBuzz'. Otherwise, it will print the number itself. 
 
