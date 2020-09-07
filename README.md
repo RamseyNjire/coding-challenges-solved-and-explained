@@ -5,7 +5,7 @@
 
 ## How to Use This Repo
 
-- The challenges can be found in the [Challenges](./Challenges) folder. Links are in the 'Challenges' column of the table below.
+- Links to challenges are in the 'Challenges' column of the table below.
 
 - The solutions can be found in the [Solutions](./Solutions) folder. Links are in the 'Solutions' column of the table below.
 
@@ -16,7 +16,7 @@
 
 | **Challenge** | **Solution** |
 | --- | --- |
-| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/Fizzbuzz) |
+| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/FizzBuzz) |
 
 
 
