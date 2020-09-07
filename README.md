@@ -9,7 +9,7 @@
 
 - The solutions can be found in the [Solutions](./Solutions) folder. Links are in the 'Solutions' column of the table below.
 
-- The explainers can be found in the Explainers folder, with more information in the EXPLAINER-*.md files.
+- The explainers can be found in the Explainers folder, with more information in the EXPLAINERS.md
 
 
 ## Challenges
