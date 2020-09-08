@@ -50,7 +50,7 @@ end
 
 - The above code will now work. Everytime it comes across a number that is divisible by both 3 and 5, that is the first thing that is checked and it will print "FizzBuzz". On the other occasions, this condition will fail and, instead, either of the other 3 (divisibility by 3, divisibility by 5, or neither) will pass.
 
-- This can be simplified even further. Instead of checking for divisibility by both 3 and 5, once can check for divisibility by the least common multiple of 3 and 5: 15. Any number that is divisible by both 3 and 5 is also divisible by 15.
+- This can be simplified even further. Instead of checking for divisibility by both 3 and 5, one can check for divisibility by the least common multiple of 3 and 5: 15. Any number that is divisible by both 3 and 5 is also divisible by 15.
 
 ```
 
