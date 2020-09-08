@@ -16,7 +16,7 @@
 
 | **Challenge** | **Solutions** | **Explainers** |
 | --- | --- | --- |
-| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/FizzBuzz) | [Explainers](./Explainers/FizzBuzz/Articles/ramsey_njire.md) | 
+| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/FizzBuzz) | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md) | 
 
 
 
