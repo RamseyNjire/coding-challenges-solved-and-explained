@@ -19,6 +19,7 @@
 | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/FizzBuzz) | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md) | 
 | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/) | 
 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | [Solutions](./Solutions/PalindromeIndex/) | [Explainers](./Explainers/) | 
+| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solutions](./Solutions/ElectronicsShop/) | [Explainers](./Explainers/) | 
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
 
 
