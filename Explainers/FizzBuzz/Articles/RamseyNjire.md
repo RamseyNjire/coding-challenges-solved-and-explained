@@ -8,7 +8,7 @@ Let's go through it step by step:
 
 - You need some way to count the numbers from 1 to 100. My solution is implemented in Ruby, so I used the #times method. Specifically, this method is a method of the `Integer` class, and is implemented by calling the #times method on a given number. You can see [here](./Solutions/FizzBuzz/RamseyNjire/RamseyNjire.rb) that I call `100.times` then pass it a code block, where I specify some actions. Don't worry about the terminology. It's not important here. The point is that I've found a way to count from 1 to 100. There are numerous ways to implement this, including `for` loops, `while` loops, and even `range`, all of which exist in Ruby and other languages.
 
-- Once you've set up some kind of counter, you need to define some code that checks the number at every count. If the right condition is met, it will print either of 'Fizz', 'Buzz', and FizzBuzz'. Otherwise, it will print the number itself. 
+- Once you've set up some kind of counter, you need to define some code that checks the number at every count. If the right condition is met, it will print either of 'Fizz', 'Buzz', and 'FizzBuzz'. Otherwise, it will print the number itself. 
 
 - This is where the trick lies. If you check whether the number is a multiple of 3 or 5 first, like the pseudocode below...
 
@@ -48,9 +48,9 @@ end
 
 ```
 
-- The above code will now work. Everytime it comes across a number that is divisible by both 3 and 5, that is the first thing that is checked and it will print "FizzBuzz". On the other occasions, this condition will fail and instead either of the other 3 (divisibility by 3, divisibility by 5, or neither) will pass.
+- The above code will now work. Everytime it comes across a number that is divisible by both 3 and 5, that is the first thing that is checked and it will print "FizzBuzz". On the other occasions, this condition will fail and, instead, either of the other 3 (divisibility by 3, divisibility by 5, or neither) will pass.
 
-- This can be simplified even further. Instead of checking for divisibility by both 3 and 5, once can check for divisibility by the least common multiple of 3 and 5: 15. Any number that is divisible by both 3 and 5 is also divisible by 15.
+- This can be simplified even further. Instead of checking for divisibility by both 3 and 5, one can check for divisibility by the least common multiple of 3 and 5: 15. Any number that is divisible by both 3 and 5 is also divisible by 15.
 
 ```
 
