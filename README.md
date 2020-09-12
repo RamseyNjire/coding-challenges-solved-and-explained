@@ -22,6 +22,7 @@
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solutions](./Solutions/ElectronicsShop/) | [Explainers](./Explainers/) | 
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solutions](./Solutions/PickingNumbers/) | [Explainers](./Explainers/) | 
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solutions](./Solutions/HurdleRace/) | [Explainers](./Explainers/) | 
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solutions](./Solutions/AngryProfessor/) | [Explainers](./Explainers/) | 
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
 
 
