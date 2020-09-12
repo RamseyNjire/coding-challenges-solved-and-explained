@@ -17,7 +17,8 @@
 | **Challenge** | **Solutions** | **Explainers** |
 | --- | --- | --- |
 | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [Solutions](./Solutions/FizzBuzz) | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md) | 
-| [Manasa&Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
+| [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/) | 
+| [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
 
 
 
