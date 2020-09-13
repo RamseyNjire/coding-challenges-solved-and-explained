@@ -31,6 +31,8 @@
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)                         | [Solutions](./Solutions/LisasWorkbook/)        | [Explainers](./Explainers/)                                 |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)                             | [Solutions](./Solutions/FairRations/)          | [Explainers](./Explainers/)                                 |
 | [Grading Students](https://www.hackerrank.com/challenges/grading)                              | [Solutions](./Solutions/GradingStudents/)      | [Explainers](./Explainers/)                                 |
+| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)                                                                                         | 
+[Solutions](./Solutions/TimeInWords/)      | [Explainers](./Explainers/)                                 |
 
 ## 🤝 Contributing
 
