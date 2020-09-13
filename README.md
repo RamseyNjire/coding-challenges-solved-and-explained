@@ -26,6 +26,7 @@
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
+| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
 
 
 
