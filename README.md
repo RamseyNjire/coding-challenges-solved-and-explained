@@ -14,20 +14,27 @@
 
 | **Challenge**                                                                                  | **Solutions**                                  | **Explainers**                                              |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- |
-| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/FizzBuzz)              | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md) |
-| [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/)                                 |
-| [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/PalindromeIndex/)      | [Explainers](./Explainers/)                                 |
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                       | [Solutions](./Solutions/AngryProfessor/)       | [Explainers](./Explainers/)                                 |
+| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)                 | [Solutions](./Solutions/BeautifulTriplets/)    | [Explainers](./Explainers/)                                 |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)           | [Solutions](./Solutions/BirthdayCakeCandles/)  | [Explainers](./Explainers/)                                 |
+| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)                         | [Solutions](./Solutions/CavityMap/)            | [Explainers](./Explainers/)                                 |
+| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)               | [Solutions](./Solutions/ChocolateFeast/)       | [Explainers](./Explainers/)                                 |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                     | [Solutions](./Solutions/ElectronicsShop/)      | [Explainers](./Explainers/)                                 |
+| [Encryption](https://www.hackerrank.com/challenges/encryption)                                 | [Solutions](./Solutions/Encryption/)           | [Explainers](./Explainers/)                                 |
+| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                                                                                         | 
+[Solutions](./Solutions/EqualizeArray/)        | [Explainers](./Explainers/)                                 |
+| [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/)                                 |
+| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)                             | [Solutions](./Solutions/FairRations/)          | [Explainers](./Explainers/)                                 |
+| [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                       | [Solutions](./Solutions/FindDigits/)           | [Explainers](./Explainers/)                                 |
+| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/FizzBuzz)              | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md)                   |
+| [Grading Students](https://www.hackerrank.com/challenges/grading)                              | [Solutions](./Solutions/GradingStudents/)      | [Explainers](./Explainers/)                                 |
+| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)                         | [Solutions](./Solutions/LisasWorkbook/)        | [Explainers](./Explainers/)                                 |
+| [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones)                     | [Solutions](./Solutions/ManasaAndStones/)      | [Explainers](./Explainers/)                                 |
+| [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/PalindromeIndex/)      | [Explainers](./Explainers/)                                 |
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers/)       | [Explainers](./Explainers/)                                 |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace/)           | [Explainers](./Explainers/)                                 |
-| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                       | [Solutions](./Solutions/AngryProfessor/)       | [Explainers](./Explainers/)                                 |
-| [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones)                     | [Solutions](./Solutions/ManasaAndStones/)      | [Explainers](./Explainers/)                                 |
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)           | [Solutions](./Solutions/BirthdayCakeCandles/)  | [Explainers](./Explainers/)                                 |
-| [Encryption](https://www.hackerrank.com/challenges/encryption)                                 | [Solutions](./Solutions/Encryption/)           | [Explainers](./Explainers/)                                 |
-| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)                 | [Solutions](./Solutions/BeautifulTriplets/)    | [Explainers](./Explainers/)                                 |
-| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)                         | [Solutions](./Solutions/LisasWorkbook/)        | [Explainers](./Explainers/)                                 |
-| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)                             | [Solutions](./Solutions/FairRations/)          | [Explainers](./Explainers/)                                 |
-| [Grading Students](https://www.hackerrank.com/challenges/grading)                              | [Solutions](./Solutions/GradingStudents/)      | [Explainers](./Explainers/)                                 |
+| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)                                                                                         | 
+[Solutions](./Solutions/TimeInWords/)          | [Explainers](./Explainers/)                                 |
 
 ## 🤝 Contributing
 
