@@ -21,6 +21,8 @@
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers/)       | [Explainers](./Explainers/)                                 |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace/)           | [Explainers](./Explainers/)                                 |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                       | [Solutions](./Solutions/AngryProfessor/)       | [Explainers](./Explainers/)                                 |
+| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                                                                                         | 
+[Solutions](./Solutions/EqualizeArray/)           | [Explainers](./Explainers/)                                 |
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                       | [Solutions](./Solutions/FindDigits/)       | [Explainers](./Explainers/)                                 |
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones)                     | [Solutions](./Solutions/ManasaAndStones/)      | [Explainers](./Explainers/)                                 |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)           | [Solutions](./Solutions/BirthdayCakeCandles/)  | [Explainers](./Explainers/)                                 |
