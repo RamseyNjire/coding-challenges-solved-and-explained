@@ -32,8 +32,7 @@
 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/PalindromeIndex/)      | [Explainers](./Explainers/)                                 |
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers/)       | [Explainers](./Explainers/)                                 |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace/)           | [Explainers](./Explainers/)                                 |
-| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/)                  | 
-[Solutions](./Solutions/TimeInWords/)          | [Explainers](./Explainers/)                                 |
+| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/)                  | [Solutions](./Solutions/TimeInWords/)        | [Explainers](./Explainers/                          )                                 |
 
 ## 🤝 Contributing
 
