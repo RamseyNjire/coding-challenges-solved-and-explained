@@ -25,9 +25,9 @@
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solutions](./Solutions/AngryProfessor/) | [Explainers](./Explainers/) | 
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
-| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
-| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
-| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
+| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Solutions](./Solutions/Encryption/) | [Explainers](./Explainers/) | 
+| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solutions](./Solutions/BeautifulTriplets/) | [Explainers](./Explainers/) | 
+| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solutions](./Solutions/LisasWorkbook/) | [Explainers](./Explainers/) | 
 
 
 
