@@ -21,8 +21,7 @@
 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/)                      | [Solutions](./Solutions/ChocolateFeast/)       | [Explainers](./Explainers/)                                 |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                     | [Solutions](./Solutions/ElectronicsShop/)      | [Explainers](./Explainers/)                                 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption)                                 | [Solutions](./Solutions/Encryption/)           | [Explainers](./Explainers/)                                 |
-| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/)               | 
-[Solutions](./Solutions/EqualizeArray/)        | [Explainers](./Explainers/)                                 |
+| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/) | [Solutions](./Solutions/EqualizeArray/) | [Explainers](./Explainers/)                                 |
 | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/)                                 |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)                             | [Solutions](./Solutions/FairRations/)          | [Explainers](./Explainers/)                                 |
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/)                              | [Solutions](./Solutions/FindDigits/)           | [Explainers](./Explainers/)                                 |
