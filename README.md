@@ -24,6 +24,7 @@
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solutions](./Solutions/HurdleRace/) | [Explainers](./Explainers/) | 
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solutions](./Solutions/AngryProfessor/) | [Explainers](./Explainers/) | 
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solutions](./Solutions/ManasaAndStones/) | [Explainers](./Explainers/) | 
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solutions](./Solutions/BirthdayCakeCandles/) | [Explainers](./Explainers/) | 
 
 
 
