@@ -28,7 +28,7 @@
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Solutions](./Solutions/Encryption/) | [Explainers](./Explainers/) | 
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solutions](./Solutions/BeautifulTriplets/) | [Explainers](./Explainers/) | 
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solutions](./Solutions/LisasWorkbook/) | [Explainers](./Explainers/) | 
-
+| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solutions](./Solutions/FairRations/) | [Explainers](./Explainers/) | 
 
 
 ## 🤝 Contributing
