@@ -17,11 +17,12 @@
 | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/FizzBuzz)              | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md) |
 | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/)                                 |
 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/PalindromeIndex/)      | [Explainers](./Explainers/)                                 |
-| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)               | [Solutions](./Solutions/ChocolateFeast/)      | [Explainers](./Explainers/)                                 |
+| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)               | [Solutions](./Solutions/ChocolateFeast/)       | [Explainers](./Explainers/)                                 |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                     | [Solutions](./Solutions/ElectronicsShop/)      | [Explainers](./Explainers/)                                 |
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers/)       | [Explainers](./Explainers/)                                 |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace/)           | [Explainers](./Explainers/)                                 |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                       | [Solutions](./Solutions/AngryProfessor/)       | [Explainers](./Explainers/)                                 |
+| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)                       | [Solutions](./Solutions/CavityMap/)       | [Explainers](./Explainers/)                                 |
 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                                                                                         | 
 [Solutions](./Solutions/EqualizeArray/)           | [Explainers](./Explainers/)                                 |
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                       | [Solutions](./Solutions/FindDigits/)       | [Explainers](./Explainers/)                                 |
