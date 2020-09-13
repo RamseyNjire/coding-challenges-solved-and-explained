@@ -17,6 +17,7 @@
 | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/FizzBuzz)              | [Explainers](./Explainers/FizzBuzz/Articles/RamseyNjire.md) |
 | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/EvenFibonacciNumbers/) | [Explainers](./Explainers/)                                 |
 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/PalindromeIndex/)      | [Explainers](./Explainers/)                                 |
+| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)               | [Solutions](./Solutions/ChocolateFeast/)      | [Explainers](./Explainers/)                                 |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                     | [Solutions](./Solutions/ElectronicsShop/)      | [Explainers](./Explainers/)                                 |
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers/)       | [Explainers](./Explainers/)                                 |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace/)           | [Explainers](./Explainers/)                                 |
