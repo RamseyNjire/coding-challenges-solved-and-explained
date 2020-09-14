@@ -4,9 +4,11 @@
 
 ## How to Use This Repo
 
-- Links to challenges are in the 'Challenges' column of the table below.
+- Links to challenges are in the 'Challenges' column of the 'Challenges' table below.
 
 - The solutions can be found in the [Solutions](./Solutions) folder. Links are in the 'Solutions' column of the table below.
+
+- Code for various data structures and algorithms can be found in the 'Data Structures' and 'Algorithms' tables. 
 
 - The explainers can be found in the Explainers folder, with more information in the EXPLAINERS.md
 
@@ -34,6 +36,16 @@
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers/)       | [Explainers](./Explainers/)                                 |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace/)           | [Explainers](./Explainers/)                                 |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/)                  | [Solutions](./Solutions/TimeInWords/)          | [Explainers](./Explainers/)                                 |
+
+## Data Structures and Algorithms
+
+### Data Structures
+
+| **Data Structure** | **Code** | **Explainers** |
+| --- | --- | --- |
+| Array | N/A | [Explainers](./Explainers/DataStructures/Array) |
+| Singly Linked List | [Code](./DataStructuresAndAlgorithms/DataStructures/SinglyLinkedList) | [Explainers](./Explainers/DataStructures/SinglyLinkedList) |
+| Doubly Linked List| [Code](./DataStructuresAndAlgorithms/DataStructures/DoublyLinkedList) | [Explainers](./Explainers/DataStructures/DoublyLinkedList) |
 
 ## 🤝 Contributing
 
