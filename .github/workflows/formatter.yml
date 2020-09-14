@@ -1,8 +1,9 @@
 name: Formatter
 on: push
-steps:
-  uses:
-    - actions/checkout@v2
-    - actionsx/prettier@v2
-  with:
-    args: --write
+jobs:
+  steps:
+    uses:
+      - actions/checkout@v2
+      - actionsx/prettier@v2
+    with:
+      args: --write
