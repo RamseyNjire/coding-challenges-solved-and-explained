@@ -3,8 +3,7 @@ on: push
 jobs:
   Prettier:
     steps:
-      uses:
-        - actions/checkout@v2
-        - actionsx/prettier@v2
+      - uses: actions/checkout@v2
+      - uses: actionsx/prettier@v2
       with:
         args: --write
