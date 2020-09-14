@@ -1,6 +1,6 @@
 name: Formatter
 
-on: commit
+on: push
 
 jobs: 
   prettier: 
