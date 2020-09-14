@@ -1,2 +1,3 @@
-- name: actionsx/prettier
+name: actionsx/prettier
+on: push
   uses: actionsx/prettier@v2
