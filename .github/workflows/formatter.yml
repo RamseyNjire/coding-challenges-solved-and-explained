@@ -8,6 +8,9 @@ jobs:
       - uses: actionsx/prettier@v2
         with:
           args: --write .
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
