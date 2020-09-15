@@ -14,4 +14,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Apply Prettier Formatting Changes
+          commit_message: BOT-> Apply Prettier Formatting Changes
