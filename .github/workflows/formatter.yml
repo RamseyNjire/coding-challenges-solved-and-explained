@@ -1,18 +1,17 @@
 name: Formatter
 on: pull_request
 jobs:
-  Prettier:
+  prettier:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
       - uses: actionsx/prettier@v2
         with:
-          args: --write README.md
-      # - uses: actions/setup-node@v1
-      #   with:
-      #     node-version: "12.x"
-      # - name: Commit changes
-      #   uses: stefanzweifel/git-auto-commit-action@v4
-      #   with:
-      #     commit_message: Apply formatting changes
-      #     skip_dirty_check: true
+          args: --write .
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply Prettier Formatting Changes
