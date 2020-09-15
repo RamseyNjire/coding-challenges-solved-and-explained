@@ -8,7 +8,7 @@
 
 - The solutions can be found in the [Solutions](./Solutions) folder. Links are in the 'Solutions' column of the table below.
 
-- Code for various data structures and algorithms can be found in the 'Data Structures' and 'Algorithms' tables. 
+- Code for various data structures and algorithms can be found in the 'Data Structures' and 'Algorithms' tables.
 
 - The explainers can be found in the Explainers folder, with more information in the EXPLAINERS.md
 
@@ -41,11 +41,11 @@
 
 ### Data Structures
 
-| **Data Structure** | **Code** | **Explainers** |
-| --- | --- | --- |
-| Array | N/A | [Explainers](./Explainers/DataStructures/Array) |
+| **Data Structure** | **Code**                                                              | **Explainers**                                             |
+| ------------------ | --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Array              | N/A                                                                   | [Explainers](./Explainers/DataStructures/Array)            |
 | Singly Linked List | [Code](./DataStructuresAndAlgorithms/DataStructures/SinglyLinkedList) | [Explainers](./Explainers/DataStructures/SinglyLinkedList) |
-| Doubly Linked List| [Code](./DataStructuresAndAlgorithms/DataStructures/DoublyLinkedList) | [Explainers](./Explainers/DataStructures/DoublyLinkedList) |
+| Doubly Linked List | [Code](./DataStructuresAndAlgorithms/DataStructures/DoublyLinkedList) | [Explainers](./Explainers/DataStructures/DoublyLinkedList) |
 
 ## 🤝 Contributing
 
