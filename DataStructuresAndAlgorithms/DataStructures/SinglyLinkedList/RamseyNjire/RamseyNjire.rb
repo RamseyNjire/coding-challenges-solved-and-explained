@@ -132,7 +132,14 @@ class LinkedList
 			node_before_discarded.next_node = discarded_node.next_node
 			discarded_node.next_node = nil
 		end
-	end
+  end
+  
+# Now that we have done most of the heavy lifting, most of the following methods will be trivial to implement. First, we shall implement a method to add to the front.
+
+def push_front(number)
+  add_at(0, number)
+end
+
 
 # Here we shall implement our #get_node method.
 # It's going to be a variation of the #get method, only it returns an object instead of a value.
