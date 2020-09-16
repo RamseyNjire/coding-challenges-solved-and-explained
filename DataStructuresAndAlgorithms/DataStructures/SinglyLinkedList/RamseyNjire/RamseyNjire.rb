@@ -175,11 +175,7 @@ def back_value
   @tail
 end
 
-# Now we shall implement a method to remove the item at the back
 
-def pop_back
-  remove((@length - 1))
-end
 
 # Here we shall implement our #get_node method.
 # It's going to be a variation of the #get method, only it returns an object instead of a value.
