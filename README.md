@@ -37,6 +37,8 @@
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)                           | [Solutions](./Solutions/SockMerchant)         | [Explainers](./Explainers)          |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace)           | [Explainers](./Explainers)          |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/TimeInWords)          | [Explainers](./Explainers)          |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)               | [Solutions](./Solutions/DivisibleSumPairs)    | [Explainers](./Explainers)          |
+
 ## Data Structures and Algorithms
 
 ### Data Structures
