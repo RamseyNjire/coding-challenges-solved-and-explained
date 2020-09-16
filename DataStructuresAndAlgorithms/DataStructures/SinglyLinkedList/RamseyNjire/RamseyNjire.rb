@@ -146,7 +146,11 @@ def front_value
   get(0)
 end
 
+# Now we shall implement a method to remove the item at the front
 
+def pop_front
+  remove(0)
+end
 
 # Here we shall implement our #get_node method.
 # It's going to be a variation of the #get method, only it returns an object instead of a value.
