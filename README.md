@@ -22,6 +22,7 @@
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)           | [Solutions](./Solutions/BirthdayCakeCandles)  | [Explainers](./Explainers)          |
 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)                                 | [Solutions](./Solutions/CavityMap)            | [Explainers](./Explainers)          |
 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)                       | [Solutions](./Solutions/ChocolateFeast)       | [Explainers](./Explainers)          |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)               | [Solutions](./Solutions/DivisibleSumPairs)    | [Explainers](./Explainers)          |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                     | [Solutions](./Solutions/ElectronicsShop)      | [Explainers](./Explainers)          |
 | [Encryption](https://www.hackerrank.com/challenges/encryption)                                 | [Solutions](./Solutions/Encryption)           | [Explainers](./Explainers)          |
 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)                | [Solutions](./Solutions/EqualizeArray)        | [Explainers](./Explainers)          |
@@ -37,7 +38,6 @@
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)                           | [Solutions](./Solutions/SockMerchant)         | [Explainers](./Explainers)          |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace)           | [Explainers](./Explainers)          |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/TimeInWords)          | [Explainers](./Explainers)          |
-| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)               | [Solutions](./Solutions/DivisibleSumPairs)    | [Explainers](./Explainers)          |
 
 ## Data Structures and Algorithms
 
