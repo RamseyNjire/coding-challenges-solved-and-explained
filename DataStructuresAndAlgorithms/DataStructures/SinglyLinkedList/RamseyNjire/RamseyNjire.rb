@@ -163,10 +163,22 @@ def pop_front
   remove(0)
 end
 
-#Now we shall implement a method to add to the back
+# Now we shall implement a method to add to the back
 
 def push_back(number)
   add_at((@length - 1), number)
+end
+
+# Now we shall implement a method to return the item at the back
+
+def back_value
+  @tail
+end
+
+# Now we shall implement a method to remove the item at the back
+
+def pop_back
+  remove((@length - 1))
 end
 
 # Here we shall implement our #get_node method.
