@@ -31,9 +31,12 @@ class LinkedList
   # Setup head and tail
 
 	attr_accessor :head, :tail
+  attr_accessor :length
+
 	def initialize(head = nil, tail = nil)
 		@head = head
 		@tail = tail
+    @length = 0
   end
   
   # Here we define a method to add a node to the back of the linked list.
@@ -55,6 +58,10 @@ class LinkedList
     	@tail.next_node = node
     	@tail = node
     end
+
+    # We increment the length of our list
+
+    @length += 1
     
   end
 
@@ -111,6 +118,8 @@ class LinkedList
 			new_node.next_node = old_node
 			node_before_old_node.next_node = new_node
 		end
+
+    @length += 1
 	end
 
 	# To remove a node at a given index, first we need to get it.
@@ -132,6 +141,8 @@ class LinkedList
 			node_before_discarded.next_node = discarded_node.next_node
 			discarded_node.next_node = nil
 		end
+
+    @length -= 1
   end
   
 # Now that we have done most of the heavy lifting, most of the following methods will be trivial to implement. First, we shall implement a method to add to the front.
@@ -150,6 +161,12 @@ end
 
 def pop_front
   remove(0)
+end
+
+#Now we shall implement a method to add to the back
+
+def push_back(number)
+  add_at((@length - 1), number)
 end
 
 # Here we shall implement our #get_node method.
