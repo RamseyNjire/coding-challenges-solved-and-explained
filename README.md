@@ -16,7 +16,7 @@
 
 | **Challenge**                                                                                  | **Solutions**                                 | **Explainers**                      |
 | ---------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------- |
-| [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/anagram)                                      | [Solutions](./Solutions/3DSurfaceArea)           | [Explainers](./Explainers)                                                          |
+| [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/anagram)               | [Solutions](./Solutions/3DSurfaceArea)        | [Explainers](./Explainers)          |
 | [Anagram](https://www.hackerrank.com/challenges/anagram)                                       | [Solutions](./Solutions/Anagram)              | [Explainers](./Explainers)          |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                       | [Solutions](./Solutions/AngryProfessor)       | [Explainers](./Explainers)          |
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)                 | [Solutions](./Solutions/BeautifulTriplets)    | [Explainers](./Explainers)          |
