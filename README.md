@@ -39,6 +39,7 @@
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)                           | [Solutions](./Solutions/SockMerchant)         | [Explainers](./Explainers)          |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace)           | [Explainers](./Explainers)          |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/TimeInWords)          | [Explainers](./Explainers)          |
+| [Find the Median](https://www.hackerrank.com/challenges/find-the-median)                       | [Solutions](./Solutions/FindTheMedian)        | [Explainers](./Explainers)          |
 
 ## Data Structures and Algorithms
 
