@@ -20,6 +20,18 @@ Let's unpack that statement and see what it means...
 
 The interesting thing about an array is that it offers constant time access. That's constant time access to both read and write from the array. How is this possible? Well, every time you want to access an element, all it takes is a simple arithmetic calculation, which means it will take the same amount of time to execute no matter how large the array or what element you're trying to access. 
 
-So how is this possible?
+So how is this possible? Well, accessing any element involves the following mathematical operation:
+
+![ConstantTimeAccess](ConstantTimeAccess.svg)
+
+
+- The variable `ArrayAddress` stands for the address in memory that begins with.
+- `ElementSize` stands for the memory size of each element. The only reason why this equation works, by the way, is that each element is allocated the same amount of memory, hence our "equal sized elements" constraint in our definition of an array.
+- `i` is the index of interest. If we're trying to access the third element of the array, `i` might be either **3** or **2**, depending on whether we're using zero-based or one-based indexing.
+- `FirstIndex` is the first index of the array. If we're using zero-based indexing, that's **0**. If we're using one-based indexing it's **1**.
+
+So to access an element, we only need to know its index, the memory location where the array starts, and the size of each element. This makes the array a powerful construct, since it means we can access any element with no more than a simple arithmetic calculation.
+
+Say, for example, that we have a 2D array and we want to access a particular element...
 
 
