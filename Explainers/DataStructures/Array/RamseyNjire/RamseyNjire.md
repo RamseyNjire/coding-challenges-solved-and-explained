@@ -47,11 +47,19 @@ Also, it is the 4th element of the third row, so we add another 4 to 12 to find 
 Now, applying our formula...
 
 ```
-element_address = array_address + (i - first_index)
+element_address = array_address + element_size * (i - first_index)
 
-element_address = array_address + (16 - 1)
+element_address = array_address + element_size * (16 - 1)
 
 ```
 
-Of course we're assuming an array where the first index is 1, though it could also just as easily be zero.
+Of course we're assuming an array where the first index is 1, though it could also just as easily be zero. Of course, the array_address can vary, and so can element_size, but the formula remains immutable so all you have to do is plug the values in.
 
+
+## Time Complexity for Array Operations
+
+|   | **Add** | **Remove** |
+|---|---------|  ----------|
+| Beginning |  |  |
+| End | `O(1)` |  |
+| Middle |  |  |
