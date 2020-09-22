@@ -36,5 +36,7 @@ Say, for example, that we have a 2D array and we want to access a particular ele
 
 ![2DArray](2DArray.svg)
 
-In this case, we want to access the 4th element in the third row, denoted by the coordinates `(3,4)` in this case.
+In this case, we want to access the 4th element in the third row, denoted by the coordinates `(3,4)` in this case. The first element in such an arrangement would have the coordinates `(1,1)`.
+
+So how do we access the address of the 4th element in the third row?
 
