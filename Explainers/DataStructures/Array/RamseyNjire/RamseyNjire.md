@@ -70,6 +70,8 @@ Adding an element at the end of the array is as simple as updating the value of 
 
 Removing an element from the end of the array is also as simple as deleting it and updating the number of elements of the array, which happens in constant time no matter how large the array.
 
+![ArrayRemoveEnd](ArrayRemoveEnd.svg)
+
 Things get interesting when we're adding and deleting at the beginning and middle.
 
 When adding to the beginning of an array, we need to shift all the other elements to the right
