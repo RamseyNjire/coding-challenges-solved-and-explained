@@ -40,3 +40,18 @@ In this case, we want to access the 4th element in the third row, denoted by the
 
 So how do we access the address of the 4th element in the third row?
 
+According to our formula above, we would first need to find the index of our element. Since it is in the third row, it is ahead of 2 rows. Each row has 6 elements so that's `(3-1) * 6`, or 12 elements.
+
+Also, it is the 4th element of the third row, so we add another 4 to 12 to find that its index is 16.
+
+Now, applying our formula...
+
+```
+element_address = array_address + (i - first_index)
+
+element_address = array_address + (16 - 1)
+
+```
+
+Of course we're assuming an array where the first index is 1, though it could also just as easily be zero.
+
