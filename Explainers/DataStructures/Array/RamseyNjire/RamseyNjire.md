@@ -66,8 +66,10 @@ Of course we're assuming an array where the first index is 1, though it could al
 
 Adding an element at the end of the array is as simple as updating the value of the address right after the last value of the array and then updating the number of elements in the array. This operation takes the same amount of time no matter what the size of the array, and so is `O(1)` operation, read as "order-1" or "Big O of 1".
 
+![ArrayAddEnd](ArrayAddEnd.svg)
+
 Removing an element from the end of the array is also as simple as deleting it and updating the number of elements of the array, which happens in constant time no matter how large the array.
 
 Things get interesting when we're adding and deleting at the beginning and middle.
 
-
+When adding to the beginning of an array, we need to shift all the other elements to the right
