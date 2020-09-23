@@ -74,4 +74,6 @@ Removing an element from the end of the array is also as simple as deleting it a
 
 Things get interesting when we're adding and deleting at the beginning and middle.
 
-When adding to the beginning of an array, we need to shift all the other elements to the right
+When adding to the beginning of an array, updating the number of elements to the array will happen in constant time, just like it does when adding to the end. However, we will also have to shift each of the other elements in the array to the right and update their indices. The time it takes to do this will increase with the number of elements `n` that our array has, making an `O(n)` operation.
+
+
