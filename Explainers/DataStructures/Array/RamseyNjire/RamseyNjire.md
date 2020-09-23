@@ -74,6 +74,40 @@ Removing an element from the end of the array is also as simple as deleting it a
 
 Things get interesting when we're adding and deleting at the beginning and middle.
 
-When adding to the beginning of an array, updating the number of elements to the array will happen in constant time, just like it does when adding to the end. However, we will also have to shift each of the other elements in the array to the right and update their indices. The time it takes to do this will increase with the number of elements `n` that our array has, making an `O(n)` operation.
+When adding to the beginning of an array, updating the number of elements to the array will happen in constant time, just like it does when adding to the end. However, we will also have to shift each of the other elements in the array to the right and update their indices. 
 
+![ArrayAddBeginning](ArrayAddBeginning.svg)
+
+![ArrayAddedBeginning](ArrayAddedBeginning.svg)
+
+The time it takes to do this will increase with the number of elements `n` that our array has, making an `O(n)` operation.
+
+The same applies when we want to remove an element from the beginning. We have to remove it, shift the other elements to the left, and then update the number of elements in our array.
+
+![ArrayRemoveBeginning](ArrayRemoveBeginning.svg)
+
+![ArrayRemovedBeginning](ArrayRemovedBeginning.svg)
+
+
+Again, the same applies when you add or remove an element in the middle. Removing requires a left shift of the elements that come after the element, and adding requires a right shift of the elements that come after it. The amount of time it takes to do this depends on the number of elements after the element of interest, which in turn depends on the number of elements in the array, making it an `O(n)` operation. Adding and removing elements in an array are really just a more general form, where the extreme special case is adding or removing an element from the beginning of the array.
+
+
+**Adding to the middle**
+
+![ArrayAddMiddle](ArrayAddMiddle.svg)
+
+
+![ArrayAddedMiddle](ArrayAddedMiddle.svg)
+
+**Removing from the middle**
+
+
+![ArrayRemoveMiddle](ArrayRemoveMiddle.svg)
+
+
+
+![ArrayRemovedMiddle](ArrayRemovedMiddle.svg)
+
+
+That said, the biggest advantage for the array is that you have constant time access to both read and write elements. This datastructure is only the beginning. The next one, the linked list, comes with its own unique set of features, as we shall see.
 
