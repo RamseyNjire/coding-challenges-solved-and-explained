@@ -30,6 +30,7 @@
 | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/EvenFibonacciNumbers) | [Explainers](./Explainers)          |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)                             | [Solutions](./Solutions/FairRations)          | [Explainers](./Explainers)          |
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits)                               | [Solutions](./Solutions/FindDigits)           | [Explainers](./Explainers)          |
+| [Find the Median](https://www.hackerrank.com/challenges/find-the-median)                       | [Solutions](./Solutions/FindTheMedian)        | [Explainers](./Explainers)          |
 | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/FizzBuzz)             | [Explainers](./Explainers/FizzBuzz) |
 | [Grading Students](https://www.hackerrank.com/challenges/grading)                              | [Solutions](./Solutions/GradingStudents)      | [Explainers](./Explainers)          |
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)                         | [Solutions](./Solutions/LisasWorkbook)        | [Explainers](./Explainers)          |
@@ -37,10 +38,9 @@
 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/PalindromeIndex)      | [Explainers](./Explainers)          |
 | [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/PickingNumbers)       | [Explainers](./Explainers)          |
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)                           | [Solutions](./Solutions/SockMerchant)         | [Explainers](./Explainers)          |
+| [Staircase](https://www.hackerrank.com/challenges/staircase)                                   | [Solutions](./Solutions/Staircase)            | [Explainers](./Explainers)          |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace)           | [Explainers](./Explainers)          |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/TimeInWords)          | [Explainers](./Explainers)          |
-| [Find the Median](https://www.hackerrank.com/challenges/find-the-median)                       | [Solutions](./Solutions/FindTheMedian)        | [Explainers](./Explainers)          |
-| [Staircase](https://www.hackerrank.com/challenges/staircase)                                   | [Solutions](./Solutions/Staircase)            | [Explainers](./Explainers)          |
 
 ## Data Structures and Algorithms
 
