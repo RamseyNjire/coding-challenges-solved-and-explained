@@ -41,12 +41,10 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase)                                   | [Solutions](./Solutions/Staircase)                   | [Explainers](./Explainers)          |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/HurdleRace)                  | [Explainers](./Explainers)          |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/TimeInWords)                 | [Explainers](./Explainers)          |
+| [Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)       | [Solutions](./Solutions/HumanReadableDurationFormat) | [Explainers](./Explainers)          |
 
 
 ## Codewars Challenges
-| **Challenge**                                                                                  | **Solutions**                                        | **Explainers**                      |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------- |
-| [Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)       | [Solutions](./Solutions/HumanReadableDurationFormat) | [Explainers](./Explainers)          |
 
 ## Data Structures and Algorithms
 
