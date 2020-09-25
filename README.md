@@ -41,7 +41,7 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase)                                   | [Solutions](./Solutions/Hackerrank/Staircase)            | [Explainers](./Explainers/Hackerrank)          |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/Hackerrank/HurdleRace)           | [Explainers](./Explainers/Hackerrank)          |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/Hackerrank/TimeInWords)          | [Explainers](./Explainers/Hackerrank)          |
-| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)                         | [Solutions](./Solutions/HalloweenSale)                   | [Explainers](./Explainers)                     |
+| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)                         | [Solutions](./Solutions/Hackerrank/HalloweenSale)        | [Explainers](./Explainers)                     |
 
 ## Codewars Challenges
 
