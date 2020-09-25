@@ -12,7 +12,7 @@
 
 - The explainers can be found in the Explainers folder, with more information in the EXPLAINERS.md
 
-## Challenges
+## Hackerrank Challenges
 
 | **Challenge**                                                                                  | **Solutions**                                            | **Explainers**                                      |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------- |
@@ -32,7 +32,9 @@
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits)                               | [Solutions](./Solutions/Hackerrank/FindDigits)           | [Explainers](./Explainers/Hackerrank)               |
 | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)                       | [Solutions](./Solutions/Hackerrank/FindTheMedian)        | [Explainers](./Explainers/Hackerrank)               |
 | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/Hackerrank/FizzBuzz)             | [Explainers](./Explainers/Hackerrank/FizzBuzz)      |
+| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)                   | [Solutions](./Solutions/Hackerrank/GameOfThronesI)       | [Explainers](./Explainers/Hackerrank)               |
 | [Grading Students](https://www.hackerrank.com/challenges/grading)                              | [Solutions](./Solutions/Hackerrank/GradingStudents)      | [Explainers](./Explainers/Hackerrank)               |
+| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)                         | [Solutions](./Solutions/Hackerrank/HalloweenSale)        | [Explainers](./Explainers/Hackerrank/HalloweenSale) |
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)                         | [Solutions](./Solutions/Hackerrank/LisasWorkbook)        | [Explainers](./Explainers/Hackerrank)               |
 | [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones)                     | [Solutions](./Solutions/Hackerrank/ManasaAndStones)      | [Explainers](./Explainers/Hackerrank)               |
 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/Hackerrank/PalindromeIndex)      | [Explainers](./Explainers/Hackerrank)               |
@@ -41,14 +43,15 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase)                                   | [Solutions](./Solutions/Hackerrank/Staircase)            | [Explainers](./Explainers/Hackerrank)               |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/Hackerrank/HurdleRace)           | [Explainers](./Explainers/Hackerrank)               |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/Hackerrank/TimeInWords)          | [Explainers](./Explainers/Hackerrank)               |
-| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)                         | [Solutions](./Solutions/Hackerrank/HalloweenSale)        | [Explainers](./Explainers/Hackerrank/HalloweenSale) |
-| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)                   | [Solutions](./Solutions/Hackerrank/GameOfThronesI)       | [Explainers](./Explainers/Hackerrank)               |
 
 ## Codewars Challenges
 
 | **Challenge**                                                                            | **Solutions**                                                 | **Explainers**                      |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------- |
 | [Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | [Solutions](./Solutions/Codewars/HumanReadableDurationFormat) | [Explainers](./Explainers/Codewars) |
+
+
+## Codewars Challenges
 
 ## Data Structures and Algorithms
 
