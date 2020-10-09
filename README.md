@@ -31,10 +31,10 @@
 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|[Solution](./Solutions/Hackerrank/FairRations)|[Explainer](./Explainers/Hackerrank)|
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits)|[Solution](./Solutions/Hackerrank/FindDigits)|[Explainer](./Explainers/Hackerrank)|
 |[Find The Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution](./Solutions/Hackerrank/FindTheMedian)|[Explainer](./Explainers/Hackerrank)|
-|[FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)|[Solution](./Solutions/Hackerrank/FizzBuzz)|[Explainer](./Explainers/Hackerrank)|
+|[FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)|[Solution](./Solutions/Hackerrank/FizzBuzz)|[Explainer](./Explainers/Hackerrank/FizzBuzz)|
 |[Game Of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)|[Solution](./Solutions/Hackerrank/GameOfThronesI)|[Explainer](./Explainers/Hackerrank)|
 |[Grading Students](https://www.hackerrank.com/challenges/grading)|[Solution](./Solutions/Hackerrank/GradingStudents)|[Explainer](./Explainers/Hackerrank)|
-|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)|[Solution](./Solutions/Hackerrank/HalloweenSale)|[Explainer](./Explainers/Hackerrank)|
+|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)|[Solution](./Solutions/Hackerrank/HalloweenSale)|[Explainer](./Explainers/Hackerrank/HalloweenSale)|
 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|[Solution](./Solutions/Hackerrank/LisasWorkbook)|[Explainer](./Explainers/Hackerrank)|
 |[Manasa And Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|[Solution](./Solutions/Hackerrank/ManasaAndStones)|[Explainer](./Explainers/Hackerrank)|
 |[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)|[Solution](./Solutions/Hackerrank/PalindromeIndex)|[Explainer](./Explainers/Hackerrank)|

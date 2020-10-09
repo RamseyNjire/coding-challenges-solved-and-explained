@@ -32,6 +32,7 @@ hackerrank:
   - title: Find The Median
 
   - title: FizzBuzz
+    explainer: true
 
   - title: Game Of Thrones - I
     slug: game-of-thrones
@@ -40,6 +41,7 @@ hackerrank:
     slug: grading
 
   - title: Halloween Sale
+    explainer: true
 
   - title: Lisa's Workbook
     slug: lisa-workbook
