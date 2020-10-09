@@ -61,7 +61,12 @@ HACKERRANK_FORMATTED =
     challenge.solution = File.join(hackerrank_solutions_path, solution_basename)
 
     # Generate Default Explainer Path
-    challenge.explainer = hackerrank_explainers_path unless challenge.explainer
+    challenge.explainer =
+      if challenge.explainer
+        File.join(hackerrank_explainers_path, solution_basename)
+      else
+        hackerrank_explainers_path
+      end
 
     challenge
   end
@@ -105,7 +110,12 @@ CODEWARS_FORMATTED =
     challenge.solution = File.join(codewars_solutions_path, solution_basename)
 
     # Generate Default Explainer Path
-    challenge.explainer = codewars_explainers_path unless challenge.explainer
+    challenge.explainer =
+      if challenge.explainer
+        File.join(codewars_explainers_path, solution_basename)
+      else
+        codewars_explainers_path
+      end
 
     challenge
   end
