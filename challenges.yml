@@ -63,3 +63,54 @@ hackerrank:
 codewars:
   - title: Human Readable Duration Format
     slug: 52742f58faf5485cae000b9a
+
+  - title: Snail
+    slug: 521c2db8ddc89b9b7a0000c1
+
+  - title: Permutations
+    slug: 5254ca2719453dcc0b00027d
+
+  - title: Sum Of Intervals
+    slug: 52b7ed099cdc285c300001cd
+
+  - title: Don't Drink The Water
+    slug: 562e6df5cf2d3908ad00019e
+
+  - title: Sort Arrays - 3
+    slug: 51f42b1de8f176db5a0002ae
+
+  - title: Interleaving Arrays
+    slug: 523d2e964680d1f749000135
+
+  - title: (Ready for) Prime Time
+    slug: 521ef596c106a935c0000519
+
+  - title: Memoized Fibonacci
+    slug: 529adbf7533b761c560004e5
+
+  - title: The Hashtag Generator
+    slug: 52449b062fb80683ec000024
+
+  - title: First Non-Repeating Character
+    slug: 52bc74d4ac05d0945d00054e
+
+  - title: RGB To Hex Conversion
+    slug: 513e08acc600c94f01000001
+
+  - title: Lottery Ticket
+    slug: 57f625992f4d53c24200070e
+
+  - title: Count Letters In String
+    slug: 5808ff71c7cfa1c6aa00006d
+
+  - title: Valid Parentheses
+    slug: 52774a314c2333f0a7000688
+
+  - title: String Incrementer
+    slug: 54a91a4883a7de5d7800009c
+
+  - title: Extract The Domain Name From A URL
+    slug: 514a024011ea4fb54200004b
+
+  - title: Calculating With Functions
+    slug: 525f3eda17c7cd9f9e000b39

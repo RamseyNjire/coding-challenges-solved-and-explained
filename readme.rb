@@ -2,7 +2,13 @@
 
 require 'yaml'
 require 'ostruct'
+require 'optparse'
 require 'markdown-tables'
+
+cli_options = {}
+OptionParser.new do |o|
+  o.on('--github_username USERNAME', String)
+end.parse!(into: cli_options)
 
 solutions_path = './Solutions'
 explainers_path = './Explainers'
@@ -32,6 +38,9 @@ challenge_to_markdown =
 
 challenges_yaml =
   YAML.safe_load(File.read('challenges.yml'))
+
+mkdir_safe =
+  ->(path) { Dir.mkdir(path) unless Dir.exist?(path) }
 
 HACKERRANK_FORMATTED =
   challenges_yaml['hackerrank']
@@ -67,6 +76,11 @@ HACKERRANK_FORMATTED =
       else
         hackerrank_explainers_path
       end
+
+    # Create Solutions Directory
+    mkdir_safe.call(challenge.solution)
+    # Create Solutions/Username Directory
+    mkdir_safe.call(File.join(challenge.solution, cli_options[:github_username])) if cli_options[:github_username]
 
     challenge
   end
@@ -116,6 +130,11 @@ CODEWARS_FORMATTED =
       else
         codewars_explainers_path
       end
+
+    # Create Solutions Directory
+    mkdir_safe.call(challenge.solution)
+    # Create Solutions/Username Directory
+    mkdir_safe.call(File.join(challenge.solution, cli_options[:github_username])) if cli_options[:github_username]
 
     challenge
   end
