@@ -66,13 +66,13 @@ HACKERRANK_FORMATTED =
     challenge.challenge_url = hackerrank_challenge_base_path + challenge.slug unless challenge.challenge_url
 
     # Generate Default Solution Path
-    solution_basename = sanitize_string.call(challenge.title)
-    challenge.solution = File.join(hackerrank_solutions_path, solution_basename)
+    challenge.basename = sanitize_string.call(challenge.title)
+    challenge.solution = File.join(hackerrank_solutions_path, challenge.basename)
 
     # Generate Default Explainer Path
     challenge.explainer =
       if challenge.explainer
-        File.join(hackerrank_explainers_path, solution_basename)
+        File.join(hackerrank_explainers_path, challenge.basename)
       else
         hackerrank_explainers_path
       end
@@ -84,8 +84,8 @@ HACKERRANK_FORMATTED =
 
     challenge
   end
-  .sort { |a, b| a.title <=> b.title } # Sort By Challenge Title
-  .freeze # Immutable
+  .sort_by(&:basename)
+  .freeze
 
 HACKERRANK_MARKDOWN =
   HACKERRANK_FORMATTED.map { |challenge| challenge_to_markdown.call(challenge) }
@@ -120,13 +120,13 @@ CODEWARS_FORMATTED =
     challenge.challenge_url = codewars_challenge_base_path + challenge.slug unless challenge.challenge_url
 
     # Generate Default Solution Path
-    solution_basename = sanitize_string.call(challenge.title)
-    challenge.solution = File.join(codewars_solutions_path, solution_basename)
+    challenge.basename = sanitize_string.call(challenge.title)
+    challenge.solution = File.join(codewars_solutions_path, challenge.basename)
 
     # Generate Default Explainer Path
     challenge.explainer =
       if challenge.explainer
-        File.join(codewars_explainers_path, solution_basename)
+        File.join(codewars_explainers_path, challenge.basename)
       else
         codewars_explainers_path
       end
@@ -138,8 +138,8 @@ CODEWARS_FORMATTED =
 
     challenge
   end
-  .sort { |a, b| a.title <=> b.title } # Sort By Challenge Title
-  .freeze # Immutable
+  .sort_by(&:basename)
+  .freeze
 
 CODEWARS_MARKDOWN =
   CODEWARS_FORMATTED.map { |challenge| challenge_to_markdown.call(challenge) }
