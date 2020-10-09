@@ -14,44 +14,41 @@
 
 ## Hackerrank Challenges
 
-| **Challenge**                                                                                  | **Solutions**                                            | **Explainers**                                      |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------- |
-| [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/anagram)               | [Solutions](./Solutions/Hackerrank/3DSurfaceArea)        | [Explainers](./Explainers/Hackerrank)               |
-| [Anagram](https://www.hackerrank.com/challenges/anagram)                                       | [Solutions](./Solutions/Hackerrank/Anagram)              | [Explainers](./Explainers/Hackerrank)               |
-| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)                       | [Solutions](./Solutions/Hackerrank/AngryProfessor)       | [Explainers](./Explainers/Hackerrank)               |
-| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)                 | [Solutions](./Solutions/Hackerrank/BeautifulTriplets)    | [Explainers](./Explainers/Hackerrank)               |
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)           | [Solutions](./Solutions/Hackerrank/BirthdayCakeCandles)  | [Explainers](./Explainers/Hackerrank)               |
-| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)                                 | [Solutions](./Solutions/Hackerrank/CavityMap)            | [Explainers](./Explainers/Hackerrank)               |
-| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)                       | [Solutions](./Solutions/Hackerrank/ChocolateFeast)       | [Explainers](./Explainers/Hackerrank)               |
-| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)               | [Solutions](./Solutions/Hackerrank/DivisibleSumPairs)    | [Explainers](./Explainers/Hackerrank)               |
-| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                     | [Solutions](./Solutions/Hackerrank/ElectronicsShop)      | [Explainers](./Explainers/Hackerrank)               |
-| [Encryption](https://www.hackerrank.com/challenges/encryption)                                 | [Solutions](./Solutions/Hackerrank/Encryption)           | [Explainers](./Explainers/Hackerrank)               |
-| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)                | [Solutions](./Solutions/Hackerrank/EqualizeArray)        | [Explainers](./Explainers/Hackerrank)               |
-| [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Solutions](./Solutions/Hackerrank/EvenFibonacciNumbers) | [Explainers](./Explainers/Hackerrank)               |
-| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)                             | [Solutions](./Solutions/Hackerrank/FairRations)          | [Explainers](./Explainers/Hackerrank)               |
-| [Find Digits](https://www.hackerrank.com/challenges/find-digits)                               | [Solutions](./Solutions/Hackerrank/FindDigits)           | [Explainers](./Explainers/Hackerrank)               |
-| [Find the Median](https://www.hackerrank.com/challenges/find-the-median)                       | [Solutions](./Solutions/Hackerrank/FindTheMedian)        | [Explainers](./Explainers/Hackerrank)               |
-| [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)                                     | [Solutions](./Solutions/Hackerrank/FizzBuzz)             | [Explainers](./Explainers/Hackerrank/FizzBuzz)      |
-| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)                   | [Solutions](./Solutions/Hackerrank/GameOfThronesI)       | [Explainers](./Explainers/Hackerrank)               |
-| [Grading Students](https://www.hackerrank.com/challenges/grading)                              | [Solutions](./Solutions/Hackerrank/GradingStudents)      | [Explainers](./Explainers/Hackerrank)               |
-| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)                         | [Solutions](./Solutions/Hackerrank/HalloweenSale)        | [Explainers](./Explainers/Hackerrank/HalloweenSale) |
-| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)                         | [Solutions](./Solutions/Hackerrank/LisasWorkbook)        | [Explainers](./Explainers/Hackerrank)               |
-| [Manasa & Stones](https://www.hackerrank.com/challenges/manasa-and-stones)                     | [Solutions](./Solutions/Hackerrank/ManasaAndStones)      | [Explainers](./Explainers/Hackerrank)               |
-| [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)                     | [Solutions](./Solutions/Hackerrank/PalindromeIndex)      | [Explainers](./Explainers/Hackerrank)               |
-| [Picking Numbers](https://www.hackerrank.com/challenges/electronics-shop)                      | [Solutions](./Solutions/Hackerrank/PickingNumbers)       | [Explainers](./Explainers/Hackerrank)               |
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)                           | [Solutions](./Solutions/Hackerrank/SockMerchant)         | [Explainers](./Explainers/Hackerrank)               |
-| [Staircase](https://www.hackerrank.com/challenges/staircase)                                   | [Solutions](./Solutions/Hackerrank/Staircase)            | [Explainers](./Explainers/Hackerrank)               |
-| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                       | [Solutions](./Solutions/Hackerrank/HurdleRace)           | [Explainers](./Explainers/Hackerrank)               |
-| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)                   | [Solutions](./Solutions/Hackerrank/TimeInWords)          | [Explainers](./Explainers/Hackerrank)               |
+|Challenges|Solutions|Explainers|
+|:-|:-|:-|
+|[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area)|[Solution](./Solutions/Hackerrank/3DSurfaceArea)|[Explainer](./Explainers/Hackerrank)|
+|[Anagram](https://www.hackerrank.com/challenges/anagram)|[Solution](./Solutions/Hackerrank/Anagram)|[Explainer](./Explainers/Hackerrank)|
+|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|[Solution](./Solutions/Hackerrank/AngryProfessor)|[Explainer](./Explainers/Hackerrank)|
+|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|[Solution](./Solutions/Hackerrank/BeautifulTriplets)|[Explainer](./Explainers/Hackerrank)|
+|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|[Solution](./Solutions/Hackerrank/BirthdayCakeCandles)|[Explainer](./Explainers/Hackerrank)|
+|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|[Solution](./Solutions/Hackerrank/CavityMap)|[Explainer](./Explainers/Hackerrank)|
+|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|[Solution](./Solutions/Hackerrank/ChocolateFeast)|[Explainer](./Explainers/Hackerrank)|
+|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)|[Solution](./Solutions/Hackerrank/DivisibleSumPairs)|[Explainer](./Explainers/Hackerrank)|
+|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)|[Solution](./Solutions/Hackerrank/ElectronicsShop)|[Explainer](./Explainers/Hackerrank)|
+|[Encryption](https://www.hackerrank.com/challenges/encryption)|[Solution](./Solutions/Hackerrank/Encryption)|[Explainer](./Explainers/Hackerrank)|
+|[Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array)|[Solution](./Solutions/Hackerrank/EqualizeTheArray)|[Explainer](./Explainers/Hackerrank)|
+|[Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002)|[Solution](./Solutions/Hackerrank/EvenFibonacciNumbers)|[Explainer](./Explainers/Hackerrank)|
+|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|[Solution](./Solutions/Hackerrank/FairRations)|[Explainer](./Explainers/Hackerrank)|
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits)|[Solution](./Solutions/Hackerrank/FindDigits)|[Explainer](./Explainers/Hackerrank)|
+|[Find The Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution](./Solutions/Hackerrank/FindTheMedian)|[Explainer](./Explainers/Hackerrank)|
+|[FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz)|[Solution](./Solutions/Hackerrank/FizzBuzz)|[Explainer](./Explainers/Hackerrank)|
+|[Game Of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)|[Solution](./Solutions/Hackerrank/GameOfThronesI)|[Explainer](./Explainers/Hackerrank)|
+|[Grading Students](https://www.hackerrank.com/challenges/grading)|[Solution](./Solutions/Hackerrank/GradingStudents)|[Explainer](./Explainers/Hackerrank)|
+|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)|[Solution](./Solutions/Hackerrank/HalloweenSale)|[Explainer](./Explainers/Hackerrank)|
+|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|[Solution](./Solutions/Hackerrank/LisasWorkbook)|[Explainer](./Explainers/Hackerrank)|
+|[Manasa And Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|[Solution](./Solutions/Hackerrank/ManasaAndStones)|[Explainer](./Explainers/Hackerrank)|
+|[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)|[Solution](./Solutions/Hackerrank/PalindromeIndex)|[Explainer](./Explainers/Hackerrank)|
+|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)|[Solution](./Solutions/Hackerrank/PickingNumbers)|[Explainer](./Explainers/Hackerrank)|
+|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)|[Solution](./Solutions/Hackerrank/SockMerchant)|[Explainer](./Explainers/Hackerrank)|
+|[Staircase](https://www.hackerrank.com/challenges/staircase)|[Solution](./Solutions/Hackerrank/Staircase)|[Explainer](./Explainers/Hackerrank)|
+|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|[Solution](./Solutions/Hackerrank/TheHurdleRace)|[Explainer](./Explainers/Hackerrank)|
+|[The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words)|[Solution](./Solutions/Hackerrank/TheTimeInWords)|[Explainer](./Explainers/Hackerrank)|
 
 ## Codewars Challenges
 
-| **Challenge**                                                                            | **Solutions**                                                 | **Explainers**                      |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------- |
-| [Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | [Solutions](./Solutions/Codewars/HumanReadableDurationFormat) | [Explainers](./Explainers/Codewars) |
-
-
-## Codewars Challenges
+|Challenges|Solutions|Explainers|
+|:-|:-|:-|
+|[Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)|[Solution](./Solutions/Codewars/HumanReadableDurationFormat)|[Explainer](./Explainers/Codewars)|
 
 ## Data Structures and Algorithms
 

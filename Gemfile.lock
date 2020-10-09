@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    markdown-tables (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  markdown-tables (~> 1.1)
+
+BUNDLED WITH
+   2.1.4
