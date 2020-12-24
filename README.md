@@ -61,6 +61,7 @@
 |[Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)|[Solution](./Solutions/Codewars/HumanReadableDurationFormat)|[Explainer](./Explainers/Codewars)|
 |[Interleaving Arrays](https://www.codewars.com/kata/523d2e964680d1f749000135)|[Solution](./Solutions/Codewars/InterleavingArrays)|[Explainer](./Explainers/Codewars)|
 |[Invert Values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)|[Solution](./Solutions/Codewars/InvertValues)|[Explainer](./Explainers/Codewars)|
+|[Jenny's Secret Message](https://www.codewars.com/kata/55225023e1be1ec8bc000390)|[Solution](./Solutions/Codewars/JennysSecretMessage)|[Explainer](./Explainers/Codewars)|
 |[Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)|[Solution](./Solutions/Codewars/KeepHydrated)|[Explainer](./Explainers/Codewars)|
 |[Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e)|[Solution](./Solutions/Codewars/LotteryTicket)|[Explainer](./Explainers/Codewars)|
 |[Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5)|[Solution](./Solutions/Codewars/MemoizedFibonacci)|[Explainer](./Explainers/Codewars)|
