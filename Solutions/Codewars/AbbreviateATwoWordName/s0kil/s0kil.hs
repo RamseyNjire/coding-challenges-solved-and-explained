@@ -1,6 +1,7 @@
-import Data.Char(toUpper)
-import Data.String(words)
-import Data.List(intercalate)
+import Data.Char (toUpper)
+import Data.List (intercalate)
+import Data.String (words)
 
 getInitials :: String -> String
-getInitials = intercalate "." . map (\c -> [toUpper $ head s]) . words
+getInitials =
+  intercalate "." . map (\w -> [toUpper $ head w]) . words
