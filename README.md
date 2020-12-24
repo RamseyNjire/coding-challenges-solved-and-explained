@@ -49,6 +49,7 @@
 |Challenges|Solutions|Explainers|
 |:-|:-|:-|
 |[Abbreviate A Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)|[Solution](./Solutions/Codewars/AbbreviateATwoWordName)|[Explainer](./Explainers/Codewars)|
+|[Array Plus Array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)|[Solution](./Solutions/Codewars/ArrayPlusArray)|[Explainer](./Explainers/Codewars)|
 |[Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)|[Solution](./Solutions/Codewars/BeginnerSeries1SchoolPaperwork)|[Explainer](./Explainers/Codewars)|
 |[Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6)|[Solution](./Solutions/Codewars/BeginnerSeries4Cockroach)|[Explainer](./Explainers/Codewars)|
 |[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)|[Solution](./Solutions/Codewars/CalculatingWithFunctions)|[Explainer](./Explainers/Codewars)|
