@@ -54,6 +54,7 @@
 |[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)|[Solution](./Solutions/Codewars/CalculatingWithFunctions)|[Explainer](./Explainers/Codewars)|
 |[Convert Number To Reversed Array Of Digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)|[Solution](./Solutions/Codewars/ConvertNumberToReversedArrayOfDigits)|[Explainer](./Explainers/Codewars)|
 |[Count Letters In String](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)|[Solution](./Solutions/Codewars/CountLettersInString)|[Explainer](./Explainers/Codewars)|
+|[Count The Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)|[Solution](./Solutions/Codewars/CountTheMonkeys)|[Explainer](./Explainers/Codewars)|
 |[Don't Drink The Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e)|[Solution](./Solutions/Codewars/DontDrinkTheWater)|[Explainer](./Explainers/Codewars)|
 |[Extract The Domain Name From A URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)|[Solution](./Solutions/Codewars/ExtractTheDomainNameFromAURL)|[Explainer](./Explainers/Codewars)|
 |[Find The First Non-Consecutive Number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)|[Solution](./Solutions/Codewars/FindTheFirstNonConsecutiveNumber)|[Explainer](./Explainers/Codewars)|
