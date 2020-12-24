@@ -59,6 +59,7 @@
 |[Extract The Domain Name From A URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)|[Solution](./Solutions/Codewars/ExtractTheDomainNameFromAURL)|[Explainer](./Explainers/Codewars)|
 |[Find The First Non-Consecutive Number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)|[Solution](./Solutions/Codewars/FindTheFirstNonConsecutiveNumber)|[Explainer](./Explainers/Codewars)|
 |[First Non-Repeating Character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)|[Solution](./Solutions/Codewars/FirstNonRepeatingCharacter)|[Explainer](./Explainers/Codewars)|
+|[Get The Mean Of An Array](https://www.codewars.com/kata/563e320cee5dddcf77000158)|[Solution](./Solutions/Codewars/GetTheMeanOfAnArray)|[Explainer](./Explainers/Codewars)|
 |[Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)|[Solution](./Solutions/Codewars/HumanReadableDurationFormat)|[Explainer](./Explainers/Codewars)|
 |[Interleaving Arrays](https://www.codewars.com/kata/523d2e964680d1f749000135)|[Solution](./Solutions/Codewars/InterleavingArrays)|[Explainer](./Explainers/Codewars)|
 |[Invert Values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)|[Solution](./Solutions/Codewars/InvertValues)|[Explainer](./Explainers/Codewars)|
