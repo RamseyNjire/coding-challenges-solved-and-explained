@@ -50,6 +50,7 @@
 |:-|:-|:-|
 |[Abbreviate A Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)|[Solution](./Solutions/Codewars/AbbreviateATwoWordName)|[Explainer](./Explainers/Codewars)|
 |[Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)|[Solution](./Solutions/Codewars/BeginnerSeries1SchoolPaperwork)|[Explainer](./Explainers/Codewars)|
+|[Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6)|[Solution](./Solutions/Codewars/BeginnerSeries4Cockroach)|[Explainer](./Explainers/Codewars)|
 |[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)|[Solution](./Solutions/Codewars/CalculatingWithFunctions)|[Explainer](./Explainers/Codewars)|
 |[Count Letters In String](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)|[Solution](./Solutions/Codewars/CountLettersInString)|[Explainer](./Explainers/Codewars)|
 |[Don't Drink The Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e)|[Solution](./Solutions/Codewars/DontDrinkTheWater)|[Explainer](./Explainers/Codewars)|
