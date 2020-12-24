@@ -48,21 +48,30 @@
 
 |Challenges|Solutions|Explainers|
 |:-|:-|:-|
+|[Abbreviate A Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)|[Solution](./Solutions/Codewars/AbbreviateATwoWordName)|[Explainer](./Explainers/Codewars)|
+|[Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)|[Solution](./Solutions/Codewars/BeginnerSeries1SchoolPaperwork)|[Explainer](./Explainers/Codewars)|
+|[Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6)|[Solution](./Solutions/Codewars/BeginnerSeries4Cockroach)|[Explainer](./Explainers/Codewars)|
 |[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)|[Solution](./Solutions/Codewars/CalculatingWithFunctions)|[Explainer](./Explainers/Codewars)|
+|[Convert Number To Reversed Array Of Digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)|[Solution](./Solutions/Codewars/ConvertNumberToReversedArrayOfDigits)|[Explainer](./Explainers/Codewars)|
 |[Count Letters In String](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)|[Solution](./Solutions/Codewars/CountLettersInString)|[Explainer](./Explainers/Codewars)|
 |[Don't Drink The Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e)|[Solution](./Solutions/Codewars/DontDrinkTheWater)|[Explainer](./Explainers/Codewars)|
 |[Extract The Domain Name From A URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)|[Solution](./Solutions/Codewars/ExtractTheDomainNameFromAURL)|[Explainer](./Explainers/Codewars)|
+|[Find The First Non-Consecutive Number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)|[Solution](./Solutions/Codewars/FindTheFirstNonConsecutiveNumber)|[Explainer](./Explainers/Codewars)|
 |[First Non-Repeating Character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)|[Solution](./Solutions/Codewars/FirstNonRepeatingCharacter)|[Explainer](./Explainers/Codewars)|
 |[Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)|[Solution](./Solutions/Codewars/HumanReadableDurationFormat)|[Explainer](./Explainers/Codewars)|
 |[Interleaving Arrays](https://www.codewars.com/kata/523d2e964680d1f749000135)|[Solution](./Solutions/Codewars/InterleavingArrays)|[Explainer](./Explainers/Codewars)|
+|[Invert Values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)|[Solution](./Solutions/Codewars/InvertValues)|[Explainer](./Explainers/Codewars)|
+|[Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)|[Solution](./Solutions/Codewars/KeepHydrated)|[Explainer](./Explainers/Codewars)|
 |[Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e)|[Solution](./Solutions/Codewars/LotteryTicket)|[Explainer](./Explainers/Codewars)|
 |[Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5)|[Solution](./Solutions/Codewars/MemoizedFibonacci)|[Explainer](./Explainers/Codewars)|
 |[Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)|[Solution](./Solutions/Codewars/Permutations)|[Explainer](./Explainers/Codewars)|
 |[RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)|[Solution](./Solutions/Codewars/RGBToHexConversion)|[Explainer](./Explainers/Codewars)|
 |[(Ready for) Prime Time](https://www.codewars.com/kata/521ef596c106a935c0000519)|[Solution](./Solutions/Codewars/ReadyforPrimeTime)|[Explainer](./Explainers/Codewars)|
+|[Reversed Sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)|[Solution](./Solutions/Codewars/ReversedSequence)|[Explainer](./Explainers/Codewars)|
 |[Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)|[Solution](./Solutions/Codewars/Snail)|[Explainer](./Explainers/Codewars)|
 |[Sort Arrays - 3](https://www.codewars.com/kata/51f42b1de8f176db5a0002ae)|[Solution](./Solutions/Codewars/SortArrays3)|[Explainer](./Explainers/Codewars)|
 |[String Incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)|[Solution](./Solutions/Codewars/StringIncrementer)|[Explainer](./Explainers/Codewars)|
+|[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)|[Solution](./Solutions/Codewars/SumArrays)|[Explainer](./Explainers/Codewars)|
 |[Sum Of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)|[Solution](./Solutions/Codewars/SumOfIntervals)|[Explainer](./Explainers/Codewars)|
 |[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)|[Solution](./Solutions/Codewars/TheHashtagGenerator)|[Explainer](./Explainers/Codewars)|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)|[Solution](./Solutions/Codewars/ValidParentheses)|[Explainer](./Explainers/Codewars)|
