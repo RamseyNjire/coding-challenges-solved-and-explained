@@ -66,6 +66,7 @@
 |[Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)|[Solution](./Solutions/Codewars/Snail)|[Explainer](./Explainers/Codewars)|
 |[Sort Arrays - 3](https://www.codewars.com/kata/51f42b1de8f176db5a0002ae)|[Solution](./Solutions/Codewars/SortArrays3)|[Explainer](./Explainers/Codewars)|
 |[String Incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)|[Solution](./Solutions/Codewars/StringIncrementer)|[Explainer](./Explainers/Codewars)|
+|[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)|[Solution](./Solutions/Codewars/SumArrays)|[Explainer](./Explainers/Codewars)|
 |[Sum Of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)|[Solution](./Solutions/Codewars/SumOfIntervals)|[Explainer](./Explainers/Codewars)|
 |[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)|[Solution](./Solutions/Codewars/TheHashtagGenerator)|[Explainer](./Explainers/Codewars)|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)|[Solution](./Solutions/Codewars/ValidParentheses)|[Explainer](./Explainers/Codewars)|
