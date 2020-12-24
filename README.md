@@ -71,6 +71,7 @@
 |[Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)|[Solution](./Solutions/Codewars/Permutations)|[Explainer](./Explainers/Codewars)|
 |[RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)|[Solution](./Solutions/Codewars/RGBToHexConversion)|[Explainer](./Explainers/Codewars)|
 |[(Ready for) Prime Time](https://www.codewars.com/kata/521ef596c106a935c0000519)|[Solution](./Solutions/Codewars/ReadyforPrimeTime)|[Explainer](./Explainers/Codewars)|
+|[Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)|[Solution](./Solutions/Codewars/ReturningStrings)|[Explainer](./Explainers/Codewars)|
 |[Reversed Sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)|[Solution](./Solutions/Codewars/ReversedSequence)|[Explainer](./Explainers/Codewars)|
 |[Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)|[Solution](./Solutions/Codewars/Snail)|[Explainer](./Explainers/Codewars)|
 |[Sort Arrays - 3](https://www.codewars.com/kata/51f42b1de8f176db5a0002ae)|[Solution](./Solutions/Codewars/SortArrays3)|[Explainer](./Explainers/Codewars)|
