@@ -59,6 +59,7 @@
 |[Count The Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)|[Solution](./Solutions/Codewars/CountTheMonkeys)|[Explainer](./Explainers/Codewars)|
 |[Don't Drink The Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e)|[Solution](./Solutions/Codewars/DontDrinkTheWater)|[Explainer](./Explainers/Codewars)|
 |[Extract The Domain Name From A URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)|[Solution](./Solutions/Codewars/ExtractTheDomainNameFromAURL)|[Explainer](./Explainers/Codewars)|
+|[Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)|[Solution](./Solutions/Codewars/FakeBinary)|[Explainer](./Explainers/Codewars)|
 |[Find The First Non-Consecutive Number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)|[Solution](./Solutions/Codewars/FindTheFirstNonConsecutiveNumber)|[Explainer](./Explainers/Codewars)|
 |[First Non-Repeating Character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)|[Solution](./Solutions/Codewars/FirstNonRepeatingCharacter)|[Explainer](./Explainers/Codewars)|
 |[Get The Mean Of An Array](https://www.codewars.com/kata/563e320cee5dddcf77000158)|[Solution](./Solutions/Codewars/GetTheMeanOfAnArray)|[Explainer](./Explainers/Codewars)|
