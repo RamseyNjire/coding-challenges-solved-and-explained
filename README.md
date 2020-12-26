@@ -80,6 +80,7 @@
 |[String Incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)|[Solution](./Solutions/Codewars/StringIncrementer)|[Explainer](./Explainers/Codewars)|
 |[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)|[Solution](./Solutions/Codewars/SumArrays)|[Explainer](./Explainers/Codewars)|
 |[Sum Of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)|[Solution](./Solutions/Codewars/SumOfIntervals)|[Explainer](./Explainers/Codewars)|
+|[Sum Without Highest And Lowest Number](https://www.codewars.com/kata/576b93db1129fcf2200001e6)|[Solution](./Solutions/Codewars/SumWithoutHighestAndLowestNumber)|[Explainer](./Explainers/Codewars)|
 |[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)|[Solution](./Solutions/Codewars/TheHashtagGenerator)|[Explainer](./Explainers/Codewars)|
 |[Total Amount Of Points](https://www.codewars.com/kata/5bb904724c47249b10000131)|[Solution](./Solutions/Codewars/TotalAmountOfPoints)|[Explainer](./Explainers/Codewars)|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)|[Solution](./Solutions/Codewars/ValidParentheses)|[Explainer](./Explainers/Codewars)|
