@@ -72,6 +72,7 @@
 |[Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)|[Solution](./Solutions/Codewars/KeepHydrated)|[Explainer](./Explainers/Codewars)|
 |[Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e)|[Solution](./Solutions/Codewars/LotteryTicket)|[Explainer](./Explainers/Codewars)|
 |[Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5)|[Solution](./Solutions/Codewars/MemoizedFibonacci)|[Explainer](./Explainers/Codewars)|
+|[Multiplying Numbers As Strings](https://www.codewars.com/kata/55911ef14065454c75000062)|[Solution](./Solutions/Codewars/MultiplyingNumbersAsStrings)|[Explainer](./Explainers/Codewars)|
 |[Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)|[Solution](./Solutions/Codewars/Permutations)|[Explainer](./Explainers/Codewars)|
 |[RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)|[Solution](./Solutions/Codewars/RGBToHexConversion)|[Explainer](./Explainers/Codewars)|
 |[(Ready for) Prime Time](https://www.codewars.com/kata/521ef596c106a935c0000519)|[Solution](./Solutions/Codewars/ReadyforPrimeTime)|[Explainer](./Explainers/Codewars)|
