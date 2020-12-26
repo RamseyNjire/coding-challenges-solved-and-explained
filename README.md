@@ -55,6 +55,7 @@
 |[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)|[Solution](./Solutions/Codewars/CalculatingWithFunctions)|[Explainer](./Explainers/Codewars)|
 |[Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)|[Solution](./Solutions/Codewars/CenturyFromYear)|[Explainer](./Explainers/Codewars)|
 |[Convert Number To Reversed Array Of Digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)|[Solution](./Solutions/Codewars/ConvertNumberToReversedArrayOfDigits)|[Explainer](./Explainers/Codewars)|
+|[Count By X](https://www.codewars.com/kata/5513795bd3fafb56c200049e)|[Solution](./Solutions/Codewars/CountByX)|[Explainer](./Explainers/Codewars)|
 |[Count Letters In String](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)|[Solution](./Solutions/Codewars/CountLettersInString)|[Explainer](./Explainers/Codewars)|
 |[Count The Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)|[Solution](./Solutions/Codewars/CountTheMonkeys)|[Explainer](./Explainers/Codewars)|
 |[Don't Drink The Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e)|[Solution](./Solutions/Codewars/DontDrinkTheWater)|[Explainer](./Explainers/Codewars)|
@@ -63,6 +64,7 @@
 |[Find The First Non-Consecutive Number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)|[Solution](./Solutions/Codewars/FindTheFirstNonConsecutiveNumber)|[Explainer](./Explainers/Codewars)|
 |[First Non-Repeating Character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)|[Solution](./Solutions/Codewars/FirstNonRepeatingCharacter)|[Explainer](./Explainers/Codewars)|
 |[Get The Mean Of An Array](https://www.codewars.com/kata/563e320cee5dddcf77000158)|[Solution](./Solutions/Codewars/GetTheMeanOfAnArray)|[Explainer](./Explainers/Codewars)|
+|[How Good Are You Really?](https://www.codewars.com/kata/5601409514fc93442500010b)|[Solution](./Solutions/Codewars/HowGoodAreYouReally)|[Explainer](./Explainers/Codewars)|
 |[Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)|[Solution](./Solutions/Codewars/HumanReadableDurationFormat)|[Explainer](./Explainers/Codewars)|
 |[Interleaving Arrays](https://www.codewars.com/kata/523d2e964680d1f749000135)|[Solution](./Solutions/Codewars/InterleavingArrays)|[Explainer](./Explainers/Codewars)|
 |[Invert Values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)|[Solution](./Solutions/Codewars/InvertValues)|[Explainer](./Explainers/Codewars)|
@@ -80,7 +82,9 @@
 |[String Incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)|[Solution](./Solutions/Codewars/StringIncrementer)|[Explainer](./Explainers/Codewars)|
 |[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)|[Solution](./Solutions/Codewars/SumArrays)|[Explainer](./Explainers/Codewars)|
 |[Sum Of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)|[Solution](./Solutions/Codewars/SumOfIntervals)|[Explainer](./Explainers/Codewars)|
+|[Sum Without Highest And Lowest Number](https://www.codewars.com/kata/576b93db1129fcf2200001e6)|[Solution](./Solutions/Codewars/SumWithoutHighestAndLowestNumber)|[Explainer](./Explainers/Codewars)|
 |[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)|[Solution](./Solutions/Codewars/TheHashtagGenerator)|[Explainer](./Explainers/Codewars)|
+|[Total Amount Of Points](https://www.codewars.com/kata/5bb904724c47249b10000131)|[Solution](./Solutions/Codewars/TotalAmountOfPoints)|[Explainer](./Explainers/Codewars)|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)|[Solution](./Solutions/Codewars/ValidParentheses)|[Explainer](./Explainers/Codewars)|
 |[You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4)|[Solution](./Solutions/Codewars/YouCantCodeUnderPressure1)|[Explainer](./Explainers/Codewars)|
 
